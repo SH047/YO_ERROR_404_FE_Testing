@@ -1,0 +1,10 @@
+# Local settings and secrets
+.env
+.env.*
+secrets/
+credentials/
+
+# IDE and operating system files
+.DS_Store
+.vscode/
+.idea/
